@@ -62,6 +62,7 @@ class ListViewController: UIViewController
         do{
             result = try moc.fetch(requestA)
             //fetch result can be directly assigned to [Employee]
+            print(result)
         }catch let error as NSError{
             print("MyError:\(error)")
         }

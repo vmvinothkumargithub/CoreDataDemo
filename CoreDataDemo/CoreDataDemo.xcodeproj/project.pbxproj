@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1802B1E023DCE25100DDB803 /* ListViewFetchController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1802B1DF23DCE25100DDB803 /* ListViewFetchController.swift */; };
 		18C6A8EA23DC4D2500194464 /* BookViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C6A8E923DC4D2500194464 /* BookViewController.swift */; };
 		18C6A8EC23DC6D0200194464 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C6A8EB23DC6D0200194464 /* ListViewController.swift */; };
 		18C6A8EF23DC98E600194464 /* Employee+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C6A8ED23DC98E600194464 /* Employee+CoreDataClass.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1802B1DF23DCE25100DDB803 /* ListViewFetchController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewFetchController.swift; sourceTree = "<group>"; };
 		18C6A8E923DC4D2500194464 /* BookViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookViewController.swift; sourceTree = "<group>"; };
 		18C6A8EB23DC6D0200194464 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		18C6A8ED23DC98E600194464 /* Employee+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Employee+CoreDataClass.swift"; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				18EA99AE23DC1D9300E16078 /* AppDelegate.swift */,
 				18EA99B023DC1D9300E16078 /* SceneDelegate.swift */,
 				18C6A8EB23DC6D0200194464 /* ListViewController.swift */,
+				1802B1DF23DCE25100DDB803 /* ListViewFetchController.swift */,
 				18C6A8E923DC4D2500194464 /* BookViewController.swift */,
 				18EA99B423DC1D9300E16078 /* Main.storyboard */,
 				18EA99BA23DC1D9600E16078 /* Assets.xcassets */,
@@ -155,6 +158,7 @@
 				18C6A8EA23DC4D2500194464 /* BookViewController.swift in Sources */,
 				18EA99AF23DC1D9300E16078 /* AppDelegate.swift in Sources */,
 				18C6A8EC23DC6D0200194464 /* ListViewController.swift in Sources */,
+				1802B1E023DCE25100DDB803 /* ListViewFetchController.swift in Sources */,
 				18EA99B123DC1D9300E16078 /* SceneDelegate.swift in Sources */,
 				18C6A8F023DC98E600194464 /* Employee+CoreDataProperties.swift in Sources */,
 			);
